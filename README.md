@@ -1,2 +1,10 @@
 # optimism-test
-testing Optimism
+```
+npx hardhat test
+```
+works
+but
+```
+npx hardhat --network optimism test
+```
+does not

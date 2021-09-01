@@ -1,0 +1,9 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+#Hardhat Optimism files
+cache-ovm
+artifacts-ovm
